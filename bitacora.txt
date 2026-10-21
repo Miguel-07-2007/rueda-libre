@@ -1,0 +1,20 @@
+Petición correcta del documeto:
+URL completa: http://127.0.0.1:5500/rueda-libre/index.html
+el protocolo: http
+el host: 127.0.0.1
+el puerto: 5500
+la ruta: /rueda-libre/index.html
+el método de la petición: GET
+el código de estado: 304
+
+Petición errónea:
+Código: 404
+Significado: Not found
+
+Roles de HTML, CSS Y JavaScript
+HTML: Esrtuctura básica del texto, títulos, párrafos, etc.
+(Ejemplo: <p>[párrafo de introducción al sitio]</p>)
+CSS: Estilizar la página, añadir imágenes y cambiar colores.
+(Ejemplo: background-color: Blue)
+JS: Añadir funcionalidades al sitio web, como botones para 
+que el usuario interactue. (ejemplo: alert("¿listo para una ruta?");)
