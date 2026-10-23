@@ -18,3 +18,7 @@ CSS: Estilizar la página, añadir imágenes y cambiar colores.
 (Ejemplo: background-color: Blue)
 JS: Añadir funcionalidades al sitio web, como botones para 
 que el usuario interactue. (ejemplo: alert("¿listo para una ruta?");)
+
+Archivo de origen: index.html, destino: tarifas.html, ruta:paginas/tarifas.html
+ Archivo de origen: tarifas.html, destino: index.html, ruta:../index.html
+ Archivo de origen: reservas.html, destino: tarifas.html, ruta:tarifas.html
